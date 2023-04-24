@@ -25,13 +25,14 @@ header {
 
 .logo a {
     color: white;
+    width: 302px;
     margin: auto;
-    
     display: block;
     text-align: center;
 }
 
 .util {
+    z-index:10;
     position: absolute;
     top: 1%;
     right: 5%;
