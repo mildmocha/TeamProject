@@ -1,0 +1,100 @@
+@charset "UTF-8";
+:root {
+    --bgB: #3c4868;
+    --bgW: #f0f0f0;
+}
+
+.body-wrap {
+    padding: 5%20%;
+}
+
+.logo {
+    width: 100%;
+    margin: auto;
+}
+
+.logo a {
+    display: block;
+    text-align: center;
+}
+
+.logo img {
+    width: 20%
+}
+
+.login {
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.login span {
+    display: block;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+input {
+    border: solid black 3px;
+    box-sizing: border-box;
+    padding: 0 3%;
+    font-size: 2em;
+    width: 45%;
+    height: 9vh;
+    display: block;
+    border-radius: 5px;
+
+    margin: 30px auto;
+}
+
+input:placeholder {
+    font-size: 10%;
+    line-height: 200px;
+}
+
+.button {}
+
+button {
+    background:var(--bgB) ;
+    font-size: 1.5em; 
+    display: block;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    height: 9.5vh;
+    margin-bottom: 5vh;
+    color: white;
+    font-weight: bold;
+}
+
+.button ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button ul::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.button li {}
+
+.button a {
+    vertical-align: top;
+    color: black;
+}
+
+.button li::after {
+    display: inline-block;
+    content: " ";
+    width: 1px;
+    background: black;
+    height: 20px;
+}
+
+.button li:last-child::after {
+    background: transparent;
+}
