@@ -109,7 +109,7 @@ a{text-decoration: none;}
 .checkBox,.checkBox>ul{position: relative;}
 .checkBox>ul>li{float: left;}
 .clearfix{width: 95%;padding: 15px;font-weight: 600;color: #888; left: 12px;}
-.checkAllBtn{position: absolute;top: 50%; left: -20px;margin-top: -11px;}
+.checkAllBtn{position: absolute;top: 50%; left: -10px;margin-top: -11px;}
 .checkBtn{position: absolute;top: 50%; left: -10px;margin-top: -11px;}
 .checkBox textarea{width: 96%;height: 90px; margin: 0 2%;background-color: #f7f7f7;color: #888; border: none;}
 .footBtwrap{margin-top: 15px;}
