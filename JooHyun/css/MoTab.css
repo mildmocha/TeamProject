@@ -19,6 +19,13 @@
   header {
     background-color: #3C486B;
 }
+  .login span {
+    font-size: 40px;
+  }
+  .Allagree {
+    color: #111;
+    font-size: 18px;
+}
   .logo img {
     width: 30%
 }
@@ -26,11 +33,9 @@
     margin-top: 5%;
 }
   #joinForm {
-    width: 400px;
+    width: 384px;
 }
-
-  /* .check01 {
-    left: 38%;
-    bottom: -500px;
-  } */
+  .check01 {
+    left: 70%;
+  }
 }
