@@ -1,97 +1,167 @@
 <!DOCTYPE html>
 <html lang="ko">
-
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>프로젝트</title>
-   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
-   <link rel="stylesheet" href="css/reset.css">
-   <link rel="stylesheet" href="css/basic.css">
-   <script src="js/prefixfree.min.js"></script>
-   <script defer type="module" src="js/main.js"></script>
-
-</head>
-
-<body>
-   <div class="header-wrap">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>퀵카트</title>
+    <link rel="stylesheet" href="css/reset.css" />
+   
+    <script src="js/prefixfree.min.js"></script>
+    
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script defer src="js/main.js"></script>
+   
+    <script defer src="js/Brand.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.4/swiper-bundle.css" />
+<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+<link rel="stylesheet" href="css/basic.css" />
+   
+            
+  </head>
+  <body>
+    <div id="D_wrap">
       <header>
-         <div class="logo">
-            <a href="#">
-               <img src="./img/logo.png">
-
-            </a>
-
-         </div>
-         <div class="util">
-            <div class="login"><a href=#>로그인</a></div>
-            <div class="sign-in"><a href=#>회원가입</a></div>
-         </div>
-         <div class="gnb">
-            <div class="gnb-category ramen"><a href="#">라면</a></div>
-            <div class="gnb-category snack"><a href="#">스낵</a></div>
-            <div class="gnb-category drink"><a href="#">음료</a></div>
-            <div class="gnb-category convenience "><a href="#">간편식</a></div>
-         </div>
-
+        <div class="header_wrap">
+          <div class="header_top">
+            <h1>라면</h1>
+            <div class="log_list">
+              <button type="submit">로그인</button>
+              <button type="submit">회원가입</button>
+              <button type="submit">장바구니</button>
+            </div>
+          </div>
+          <div class="header_bottom">
+            <ul>
+              <li><a href="#">라면</a></li>
+              <li><a href="#">스낵</a></li>
+              <li><a href="#">음료</a></li>
+              <li><a href="#">간편식</a></li>
+            </ul>
+          </div>
+        </div>
       </header>
-      <div class="body-wrap">
-         <div class="slide">
-            <a href=#>
-               <img src="https://www.paldofood.co.kr/data/banner/093754_mainbanner.jpg">
-             </a>
-         </div>
+    </div>
+    <div class="contents">
+      <div class="contents_wrap">
+        <div class="banner">
+          <img src="http://image.nongshim.com/brand/info/1514859753593.jpg">
+          <img src="https://nsmall2022.cafe24.com/banner/mainslide/PC/PC_main_bn_led.jpg"/>
+        </div>
+        <div class="wrap">
+        
+          
+        
+          <div class="slider">
+            <div class="swiper mini_silder">
+              
+            <h1>브랜드</h1>
+              <div class="swiper-wrapper">
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/brand.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="img/img01.jpg" alt=""></div>
+              </div>
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+          </div>
+        </div>
+        <div class="main">
+          <h1>추천 상품</h1>
+          <div class="goods-wrap">
+            
+            <h2>라면</h2>
+            <a href="#">
+            <span class="more"> 더 보기 </span>
+          </a>
+            <div class="goodslist">
+              <ul>
+                <li>
+                  <a href="#">
+                    <img
+                      src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg"
+                    />
+                    <p>이름 이름 이름</p>
+                    <span>99,999₩</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <img
+                      src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg"
+                    />
+                    <p>이름 이름 이름</p>
+                    <span>99,999₩</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <img
+                      src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg"
+                    />
+                    <p>이름 이름 이름</p>
+                    <span>99,999₩</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <img
+                      src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg"
+                    />
+                    <p>이름 이름 이름</p>
+                    <span>99,999₩</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <img
+                      src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg"
+                    />
+                    <p>이름 이름 이름</p>
+                    <span>99,999₩</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+     
+      </div>
 
-         <h2 class="tit"> 브랜드 </h2>
-         <div class="brand-wrap">
-            <div class="brand">
-               <a href="#"><img src="img/brand.jpg"></a>
-            </div>
-            <div class="brand">
-               <a href="#"><img src="img/brand.jpg"></a>
-            </div>
-            <div class="brand">
-               <a href="#"><img src="img/brand.jpg"></a>
-            </div>
-            <div class="brand">
-               <a href="#"><img src="img/brand.jpg"></a>
-            </div>
-            <div class="brand">
-               <a href="#"><img src="img/brand.jpg"></a>
-            </div>
-         </div>
-         <h2 class="tit">인기상품</h2>
-         <div class="pop-wrap">
-         <div class="pop-ramen">
-            <ul class="items"></ul>
-         </div>
-         <div class="pop-snack">
-            <ul class="items"></ul>
-         </div>
-         <div class="pop-drink">
-            <ul class="items"></ul>
-         </div>
-         <div class="pop-convenience">
-            <ul class="items"></ul>
-         </div>
+    <footer>
+      <div class="footer_wrap">
+        <div class="f_left">
+          <ul>
+            <li><a href="#">고객센터</a></li>
+            <li><a href="#">이용약관</a></li>
+            <li><a href="#">개인정보처리방침</a></li>
+          </ul>
+          <div class="f_address">
+            <p>서울특별시 강남구 테헤란로5길 24 장연빌딩 5층</p>
+          </div>
+          <div class="copyright">
+            <span>Copyright ⓒ quickcart/index.html</span>
+            <div class="f_logo"></div>
+          </div>
+        </div>
+        <div class="f_right">
+          <p>유종석 | <span>email@email.com</span></p>
+          <p>이민희 | <span>email@email.com</span></p>
+          <p>이주현 | <span>email@email.com</span></p>
+        </div>
       </div>
-      </div>
-   </div>
-   <footer>
-      <div class="footer-wrap">
-         제작
-         <ul>
-            <li> 이민희 <span></span> 📪이메일@sadsad.com <span></span> 📞 tel :010-123-1234   </li>
-            <li> 이주현 <span></span> 📪이메일@assdda.com  <span></span> 📞 tel : 010-123-1234 </li>
-            <li> 유종석 <span></span> 📪이메일@asddsa.com <span></span> 📞 tel : 010-123-1234 </li>
-         
-      
-      </ul>
-      </div>
-   </footer>
-</body>
-
+    </footer>
+    
+  </body>
 </html>
