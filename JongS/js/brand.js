@@ -1,6 +1,6 @@
 var swiper2 = new Swiper(".mini_silder", {
-  slidesPerView:"auto",
-  spaceBetween: 25,
+  slidesPerView:"6",
+  spaceBetween: 95,
   pagination: {
     el: ".swiper-pagination",
     clickable: true,
