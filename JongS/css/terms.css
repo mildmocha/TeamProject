@@ -1,0 +1,124 @@
+@charset "UTF-8"; 
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+body { 
+    font-family: 'Pretendard-Regular', Verdana, Geneva, Tahoma, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+ul:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+@media (min-width: 834px) {
+    .signIn_wrap {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 1200px;
+        margin: auto;
+        padding-bottom: 50px;
+    }
+
+    .logo {
+        display: block;
+        width: 200px;
+        height: 200px;
+        background: url('../img/main_logo.png')no-repeat center center / 100%;
+        margin: 0 auto;
+    }
+
+    h1 {
+        font-size: 40px;
+        font-weight: bold;
+        margin-bottom: 30px;
+    }
+
+    .all_agree {
+        width: 620px;
+        text-align: right;
+        line-height: 30px;
+        margin: 0 auto 10px auto;
+    }
+    input[type="checkbox"], label {cursor: pointer;}
+    input[type="checkbox"]:checked {background-color: #3D496B;}
+    input[type="checkbox"]:after {
+        content: '';
+        position: absolute;
+        left: 5px;
+        top: 2px;
+        display: block;
+        width: 6px;
+        height: 10px;
+        border: solid #fff;
+        border-width: 0 2px 2px 0;
+        transform: rotate(45deg);
+    }
+    .all_agree label span {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .all_agree input[type="checkbox"] {
+        position: relative;
+        box-sizing: border-box;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        vertical-align: middle;
+        outline: none !important;
+        border: 1px solid #999;
+        appearance: none;
+    }
+
+    .boxes {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        width: 700px;
+        height: 100%;
+    }
+    .agree {margin-bottom: 5px;}
+    .boxes label span {
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .boxes input[type="checkbox"] {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        vertical-align: middle;
+        outline: none !important;
+        border: 1px solid #999;
+        appearance: none;
+    }
+    .second {margin: 40px 0;}
+    textarea {
+        width: 600px;
+        height: 150px;
+        overflow: auto;
+        padding: 20px;
+        font-family: '맑은고딕'
+    }
+
+    button {
+        margin-top: 30px;
+        width: 350px;
+        height: 60px;
+        background-color: #3D496B;
+        color: #fff;
+        border: none;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+}
