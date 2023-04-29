@@ -1,0 +1,115 @@
+@charset "UTF-8";
+:root {
+    --bgB: #3c4868;
+    --bgW: #f0f0f0;
+}
+
+header {
+    background-color: #3C486B;
+}
+
+.logo a {
+    display: block;
+    text-align: center;
+}
+
+.logo img {
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.login {
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.login span {
+    display: block;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+input {
+    border: solid black 3px;
+    box-sizing: border-box;
+    padding: 0 1%;
+    font-size: 1em;
+    width: 40%;
+    height: 7vh;
+    display: block;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+input::placeholder {
+    color: black;
+    line-height: 200px;
+    font-weight: bold;
+}
+
+.button {margin-top: 3vh;}
+
+button {
+    background:var(--bgB) ;
+    font-size: 1.3em; 
+    display: block;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    height: 5vh;
+    margin-bottom: 1.5vh;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button ul::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.button a {
+    vertical-align: middle;
+    color: black;
+    font-size: 16px;
+}
+
+.button li::after {
+    display: inline-block;
+    content: " ";
+    width: 1px;
+    background: black;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.button li:last-child::after {
+    background: transparent;
+}
+
+.join a {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: black;
+    font-size: 14px;
+}
+
+.join .button {margin-top: 1vh;}
+
+.join button {
+    background:#dddddd4f ;
+    color: #111;
+    width: 30%;
+}
