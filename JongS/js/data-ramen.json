@@ -1,0 +1,101 @@
+{
+    "data" :[
+        {
+            "id": 1,
+            "name": "베트남쌀국수",
+            "img": "/234/ramen/lotte-la.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "cup"
+        },
+        {
+            "id": 2,
+            "name": "아라비아따 파스타",
+            "img": "/234/ramen/lotte-la2.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "other"
+        },
+        {
+            "id": 3,
+            "name": "Chefood뽀모도로",
+            "img": "/234/ramen/lotte-la3.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "other"
+        },
+        {
+            "id": 4,
+            "name": "라구볼로네제 파스타",
+            "img": "/234/ramen/lotte-la4.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "other"
+        },
+        {
+            "id": 5,
+            "name": "스낵면",
+            "img": "/234/ramen/oddugi-la.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ins"
+        },
+        {
+            "id": 6,
+            "name": "PÅLYCKE 폴뤼케 걸이식바구니",
+            "img": "/234/ramen/oddugi-la2.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ins"
+        },
+        {
+            "id": 7,
+            "name": "PEPPRIG 페프리그",
+            "img": "/234/ramen/oddugi-la3.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ins"
+        },
+        {
+            "id": 8,
+            "name": "JÄLL 옐 빨래주머니+스탠드",
+            "img": "/234/ramen/oddugi-la4.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ins"
+        },
+        {
+            "id": 9,
+            "name": "PEPPRIG 페프리그",
+            "img": "/234/ramen/oddugi-la5.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ins"
+        },
+        {
+            "id": 10,
+            "name": "PEPPRIG 페프리그",
+            "img": "/234/ramen/oddugi-la6.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        },
+        {
+            "id":11,
+            "name": "PEPPRIG 페프리그",
+            "img": "/234/ramen/oddugi-la7.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        },
+        {
+            "id": 12,
+            "name": "PEPPRIG 페프리그",
+            "img": "/234/ramen/oddugi-la8.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        }
+    ]
+
+}

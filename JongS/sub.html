@@ -9,8 +9,8 @@
   <link rel="stylesheet" href="css/sub.css">
   <script src="js/prefixfree.min.js"></script>
   <script src="js/jquery-3.6.4.min.js"></script>
-  <script defer src="js/sub.js"></script>
-  <script defer src="js/burger.js"></script>
+ 
+ 
 </head>
 <body>
   <div id="D_wrap">
@@ -33,6 +33,7 @@
           </ul>
         </div>
       </div>
+      
     </header>
 
     <div class="contents">
@@ -45,52 +46,28 @@
     <div class="aside-wrap">
     <div class="type">
       <span>종류</span>
-      <input type="checkbox">비빔면
-      <input type="checkbox">봉지라면
-      <input type="checkbox">컵라면
+      <input type="checkbox" value="mix" name="typei">비빔면<br>
+      <input type="checkbox" value="ins" name="typei">봉지라면<br>
+      <input type="checkbox" value="cup" name="typei">컵라면<br>
+      <input type="checkbox" value="other" name="typei">기타
+
+
 
     </div>
     <div class="brand">
       <span>브랜드</span>
-      <input type="checkbox">삼성
-      <input type="checkbox">한화
-      <input type="checkbox">롯데
+      <input type="checkbox" id="lot" value="lotte" name="brandi" >롯데<br>
+      <input type="checkbox" id="oh" value="oh" name="brandi">오뚜기<br>
+      <input type="checkbox" id="pal" value="pal" name="brandi">팔도<br>
+      <input type="checkbox" id="sam" value="sam" name="brandi">삼양
+
     </div>
     </div>
   </aside>
   <div class="goods-wrap">
    <h2>상품 목록<h2>
     <div class="goodslist">
-      <ul>
-        <li>
-          <a href="#">
-            <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg" >
-            <p> 이름 이름 이름</p>
-            <span>99,999₩</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg" >
-            <p> 이름 이름 이름</p>
-            <span>99,999₩</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg" >
-            <p> 이름 이름 이름</p>
-            <span>99,999₩</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/462784709248139-f253637c-9f96-4916-8467-602e94e4f2e8.jpg" >
-            <p> 이름 이름 이름</p>
-            <span>99,999₩</span>
-          </a>
-
-        </li>
+      <ul class="goods">
         
 
       </ul>
@@ -132,6 +109,6 @@
   </div>
 
  
-  
+  <script defer type="module" src="js/sub.js"></script>
 </body>
 </html>
