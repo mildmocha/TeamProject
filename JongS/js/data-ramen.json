@@ -3,12 +3,12 @@
         {
             "id": 1,
             "name": "베트남쌀국수",
-            "img": "/234/ramen/lotte-la.png",
+            "img": "TeamProject/JongS/234/ramen/lotte-la.png",
             "price": "1000",
             "brand": "lotte",
             "type": "cup"
         },
-        {
+         {
             "id": 2,
             "name": "아라비아따 파스타",
             "img": "/234/ramen/lotte-la2.png",
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "name": "PÅLYCKE 폴뤼케 걸이식바구니",
+            "name": "열라면",
             "img": "/234/ramen/oddugi-la2.jpg",
             "price": "3000",
             "brand": "oh",
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "name": "PEPPRIG 페프리그",
+            "name": "진라면",
             "img": "/234/ramen/oddugi-la3.jpg",
             "price": "3000",
             "brand": "oh",
@@ -58,7 +58,7 @@
         },
         {
             "id": 8,
-            "name": "JÄLL 옐 빨래주머니+스탠드",
+            "name": "참깨라면",
             "img": "/234/ramen/oddugi-la4.jpg",
             "price": "3000",
             "brand": "oh",
@@ -66,7 +66,7 @@
         },
         {
             "id": 9,
-            "name": "PEPPRIG 페프리그",
+            "name": "미역국라면",
             "img": "/234/ramen/oddugi-la5.jpg",
             "price": "3000",
             "brand": "oh",
@@ -74,7 +74,7 @@
         },
         {
             "id": 10,
-            "name": "PEPPRIG 페프리그",
+            "name": "진라면 컵",
             "img": "/234/ramen/oddugi-la6.jpg",
             "price": "3000",
             "brand": "oh",
@@ -82,7 +82,7 @@
         },
         {
             "id":11,
-            "name": "PEPPRIG 페프리그",
+            "name": "진짜장 컵",
             "img": "/234/ramen/oddugi-la7.jpg",
             "price": "3000",
             "brand": "oh",
@@ -90,11 +90,67 @@
         },
         {
             "id": 12,
-            "name": "PEPPRIG 페프리그",
+            "name": "컵누들 짜장맛",
             "img": "/234/ramen/oddugi-la8.jpg",
             "price": "3000",
             "brand": "oh",
             "type": "cup"
+        },
+        {
+            "id": 13,
+            "name": "볶음김치면",
+            "img": "/234/ramen/paldo-la.png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        },
+        {
+            "id": 14,
+            "name": "미니곰탕왕뚜껑",
+            "img": "/234/ramen/paldo-la2.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        },
+        {
+            "id": 15,
+            "name": "미니 왕뚜껑",
+            "img": "/234/ramen/paldo-la3.png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        },
+        {
+            "id": 16,
+            "name": "미니우동왕뚜껑",
+            "img": "/234/ramen/paldo-la4.png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        },
+        {
+            "id": 17,
+            "name": "김치도시락",
+            "img": "/234/ramen/paldo-la5.png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "cup"
+        },
+        {
+            "id": 18,
+            "name": "컵누들 짜장맛",
+            "img": "/234/ramen/paldo-la10.png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "mix"
+        },
+        {
+            "id": 19,
+            "name": "컵누들 짜장맛",
+            "img": "/234/ramen/paldo-la7.png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "mix"
         }
     ]
 
