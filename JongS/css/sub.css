@@ -89,7 +89,8 @@ aside input { color:#111;
   box-sizing: border-box;
 }
 .goodslist li img {
-  width: 100%;
+    object-fit: contain;
+  width: 100%; height:200px;
 }
 
 /*--------------------------------------------*/
