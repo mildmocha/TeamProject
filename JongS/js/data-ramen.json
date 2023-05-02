@@ -11,7 +11,7 @@
          {
             "id": 2,
             "name": "아라비아따 파스타",
-            "img": "/234/ramen/lotte-la2.png",
+            "img": "./234/ramen/lotte-la2.png",
             "price": "1000",
             "brand": "lotte",
             "type": "other"
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "Chefood뽀모도로",
-            "img": "/234/ramen/lotte-la3.png",
+            "img": "../234/ramen/lotte-la3.png",
             "price": "1000",
             "brand": "lotte",
             "type": "other"
