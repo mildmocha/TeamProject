@@ -1,0 +1,142 @@
+{
+    "data" :[
+        {
+            "id": 1,
+            "name": "에어베이크드",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/06/23/202206230c6e67a05abf4b7.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "chip"
+        },
+        {
+            "id": 2,
+            "name": "도리토스",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2020/12/16/2020121657553cce81df426.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "chip"
+        },
+        {
+            "id": 3,
+            "name": "치토스",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2020/12/16/2020121617c35659852b48c.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "bag"
+        },
+        {
+            "id": 4,
+            "name": "오징어땅콩",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2020/12/16/20201216edf510688f3f47a.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "bag"
+        },
+        {
+            "id": 5,
+            "name": "뿌셔뿌셔 바베큐맛",
+            "img": "https://www.ottogi.co.kr/pds/product/2018-12-12_987458734[12].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ramen"
+        },
+        {
+            "id": 6,
+            "name": "뿌셔뿌셔 떡볶이맛",
+            "img": "https://www.ottogi.co.kr/pds/product/2018-12-12_987458734[10].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ramen"
+        },
+        {
+            "id": 7,
+            "name": "뿌셔뿌셔 불고기맛",
+            "img": "https://www.ottogi.co.kr/pds/product/2018-12-12_987458734[16].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ramen"
+        },
+        {
+            "id": 8,
+            "name": "뿌셔뿌셔 달고나맛",
+            "img": "https://www.ottogi.co.kr/pds/product/2022-11-24_894670281[2].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "ramen"
+        },
+        {
+            "id": 13,
+            "name": "팔도비빔칩",
+            "img": "https://www.paldofood.co.kr/data/product/095439_convenient-food-024-thumb.png",
+            "price": "3000",
+            "brand": "pal",
+            "type": "chip"
+        },
+        {
+            "id": 14,
+            "name": "뽀로로 과일맛 젤리",
+            "img": "https://www.paldofood.co.kr/data/product/164449_convenient-food-011-thumb.png",
+            "price": "3000",
+            "brand": "pal",
+            "type": "jelly"
+        },
+        {
+            "id": 15,
+            "name": "잔망루피젤리 (믹스베리)",
+            "img": "https://www.paldofood.co.kr/data/product/convenient-food-008-thumb.png",
+            "price": "3000",
+            "brand": "pal",
+            "type": "jelly"
+        },
+        {
+            "id": 16,
+            "name": "두부감빠",
+            "img": "https://www.paldofood.co.kr/data/product/160224_100023_convenient-food-026-thumb.png",
+            "price": "3000",
+            "brand": "pal",
+            "type": "bag"
+        },
+        
+        {
+            "id": 20,
+            "name": "불닭으로 딱 집게",
+            "img": "https://www.samyangfoods.com/upload/product/20220831/20220831111837077013.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "bag"
+        },
+        {
+            "id": 21,
+            "name": "츄러스짱구",
+            "img": "https://www.samyangfoods.com/upload/product/20220629/20220629150609110030.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "bag"
+        },
+        {
+            "id": 22,
+            "name": "페어링바이츠 바질 베이글 칩",
+            "img": "https://www.samyangfoods.com/upload/product/20220525/20220525173222381993.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "chip"
+        },
+        {
+            "id": 23,
+            "name": "사또밥 꿀버터고구마맛",
+            "img": "https://www.samyangfoods.com/upload/product/20220506/20220506121321925910.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "bag"
+        },
+        {
+            "id": 24,
+            "name": "젤리셔스",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2020/12/16/20201216dca140141956469.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "jelly"
+        }
+    ]
+
+}

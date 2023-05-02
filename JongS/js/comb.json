@@ -1,0 +1,234 @@
+{
+    "data" :[
+        {
+            "id": 1,
+            "name": "시래기 코다리조림",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/10/14/202210146cddb43562774a7.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "side"
+        },
+        {
+            "id": 2,
+            "name": "땅콩크림뇨끼",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/10/14/202210143b85b0c138eb488.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "side"
+        },
+        {
+            "id": 3,
+            "name": "낙지듬뿍먹물리소토",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/10/14/20221014f4a3f6aa0b4f488.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "mix"
+        },
+        {
+            "id": 4,
+            "name": "Chefood 생크림버터 치킨카레",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/14/202209148f72b930073f4bf.png",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "curry"
+        },
+        {
+            "id": 5,
+            "name": "Chefood 토마토비프카레",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/14/202209147007a0664490492.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "curry"
+        },
+        {
+            "id": 6,
+            "name": "Chefood 갈릭포크키마카레",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/14/2022091492581f1506504fc.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "curry"
+        },
+        {
+            "id": 7,
+            "name": "Chefood 데리야끼 치킨 볶음밥",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/20220913e388e9b818514a9.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "mix"
+        },
+        {
+            "id": 8,
+            "name": "Chefood 직화소고기덮밥",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/202209134ef96794bdfc41a.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "mix"
+        },
+        {
+            "id": 9,
+            "name": "Chefood 매콤낙지볶음밥",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/202209132e8c38e53f60425.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "mix"
+        },
+        {
+            "id": 10,
+            "name": "Chefood 소불고기볶음밥",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/202209138153aca4c1834ab.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "mix"
+        },
+        {
+            "id":11,
+            "name": "Chefood 소고기미역국",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/202209136d6c53b27221453.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "soup"
+        },
+        {
+            "id": 12,
+            "name": "Chefood 삼색어묵 유부주머니전골",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/20220913acdd26376d724a0.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "soup"
+        },
+        {
+            "id": 13,
+            "name": "Chefood 서울식 버섯소불고기전골",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/20220913900760120a4b472.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "soup"
+        },
+        {
+            "id": 14,
+            "name": "Chefood 햄듬뿍 부대찌개",
+            "img": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/09/13/2022091357202af3dd154fb.png",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "soup"
+        },
+        {
+            "id": 15,
+            "name": "3분카레 약간 매운맛",
+            "img": "https://www.ottogi.co.kr/pds/product/2022-05-03_976190153.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "curry"
+        },
+        {
+            "id": 16,
+            "name": "백세카레",
+            "img": "https://www.ottogi.co.kr/pds/product/2022-05-03_976190153[11].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "curry"
+        },
+        {
+            "id": 17,
+            "name": "그대로카레",
+            "img": "https://www.ottogi.co.kr/pds/product/2020-10-12_308078305[6].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "curry"
+        },
+        
+        {
+            "id": 20,
+            "name": "컵밥김치참치덮밥",
+            "img": "https://www.ottogi.co.kr/pds/product/2023-02-02_301781936[29].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "mix"
+        },
+        {
+            "id": 21,
+            "name": "컵밥제육덮밥",
+            "img": "https://www.ottogi.co.kr/pds/product/2023-02-02_301781936[27].jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "mix"
+        },
+        {
+            "id": 22,
+            "name": "토마토미트볼",
+            "img": "https://www.ottogi.co.kr/pds/product/2020-08-26_773190637[7].png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "side"
+        },
+        {
+            "id": 23,
+            "name": "햄버그스테이크",
+            "img": "https://www.ottogi.co.kr/pds/product/2020-08-26_773190637[12].png",
+            "price": "3000",
+            "brand": "oh",
+            "type": "side"
+        },
+        {
+            "id": 23,
+            "name": "우렁된장국",
+            "img": "https://www.ottogi.co.kr/pds/product/2022-06-24_506412368.jpg",
+            "price": "3000",
+            "brand": "oh",
+            "type": "soup"
+        },
+        {
+            "id": 23,
+            "name": "불닭렌당커리",
+            "img": "https://www.samyangfoods.com/upload/product/20220720/20220720151727621009.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "curry"
+        },
+        {
+            "id": 23,
+            "name": "불닭마크니커리",
+            "img": "https://www.samyangfoods.com/upload/product/20220720/20220720150808984005.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "curry"
+        },
+        
+        {
+            "id": 23,
+            "name": "핵불닭소스",
+            "img": "https://www.samyangfoods.com/upload/product/20210219/20210219180013063295.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "side"
+        },
+        {
+            "id": 23,
+            "name": "불닭소스",
+            "img": "https://www.samyangfoods.com/upload/product/20210219/20210219180102833299.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "side"
+        },
+        {
+            "id": 23,
+            "name": "틈새소스",
+            "img": "https://www.paldofood.co.kr/data/product/160948_convenient-food_%E1%84%90%E1%85%B3%E1%86%B7%E1%84%89%E1%85%A2%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.jpg",
+            "price": "3000",
+            "brand": "pal",
+            "type": "side"
+        },
+        {
+            "id": 23,
+            "name": "틈새 핫소스",
+            "img": "https://www.paldofood.co.kr/data/product/161257_convenient-food_%E1%84%90%E1%85%B3%E1%86%B7%E1%84%89%E1%85%A2%E1%84%92%E1%85%A1%E1%86%BA%E1%84%89%E1%85%A9%E1%84%89%E1%85%B3.jpg",
+            "price": "3000",
+            "brand": "pal",
+            "type": "side"
+        }
+        
+        
+        
+    ]
+
+}

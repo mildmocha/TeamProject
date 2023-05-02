@@ -1,0 +1,158 @@
+{
+    "data" :[
+        {
+            "id": 1,
+            "name": "펩시콜라",
+            "img": "https://company.lottechilsung.co.kr/common/images/t1List9.jpg",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "soft"
+        },
+        {
+            "id": 2,
+            "name": "펩시제로라임",
+            "img": "https://company.lottechilsung.co.kr/common/images/t1List12.jpg",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "soft"
+        },
+        {
+            "id": 3,
+            "name": "칠성사이다",
+            "img": "https://company.lottechilsung.co.kr/common/images/t1List6.jpg",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "soft"
+        },
+        {
+            "id": 4,
+            "name": "델몬트 오렌지 100",
+            "img": "https://company.lottechilsung.co.kr/common/images/t2List2.jpg",
+            "price": "1000",
+            "brand": "lotte",
+            "type": "other"
+        },
+        {
+            "id": 5,
+            "name": "롯데 쌕쌕",
+            "img": "https://company.lottechilsung.co.kr/common/images/t2List12.jpg",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "ins"
+        },
+        {
+            "id": 6,
+            "name": "미녀는 석류를 좋아해",
+            "img": "https://company.lottechilsung.co.kr/common/images/t2List14.jpg",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "ins"
+        },
+        {
+            "id": 7,
+            "name": "게토레이",
+            "img": "https://company.lottechilsung.co.kr/common/images/lyPopProd_t5List1.jpg",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "ins"
+        },
+        {
+            "id": 8,
+            "name": "2%",
+            "img": "https://company.lottechilsung.co.kr/common/images/lyPopProd_t5List16.jpg",
+            "price": "3000",
+            "brand": "lotte",
+            "type": "ins"
+        },
+        {
+            "id": 9,
+            "name": "코카콜라",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/01-sparkling-drinks/coca-cola/1_Coca-Cola_(L)_234x700.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "soft"
+        },
+        {
+            "id": 10,
+            "name": "코카콜라 제로",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/01-sparkling-drinks/coca-cola/2_Coca-Cola%20Zero_(L)_234x700.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "soft"
+        },
+        {
+            "id":11,
+            "name": "닥터페퍼",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/01-sparkling-drinks/dr-pepper/Dr.Pepper-(L)-234x700.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "soft"
+        },
+        {
+            "id": 12,
+            "name": "코코팜",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/landing-page/categories/cat_04/Product%20Shot_04_Juices_02_Cocopalm_100x255.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "juice"
+        },
+        {
+            "id": 13,
+            "name": "미닛메이드",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/landing-page/categories/cat_04/Product%20Shot_04_Juices_01_Minute%20Maid_100x255.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "juice"
+        },
+        {
+            "id": 14,
+            "name": "갈아만든배",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/landing-page/categories/cat_04/Product%20Shot_04_Juices_04_Crushed%20Pear(C)_100x255.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "juice"
+        },
+        {
+            "id": 15,
+            "name": "파워에이드",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/02-sports&hydration/powerade/1_Powerade%20Mountain%20Blast_100x255.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "sports"
+        },
+        {
+            "id": 16,
+            "name": "토레타",
+            "img": "https://www.coca-cola.co.kr/content/dam/journey/kr/ko/brands/landing-page/categories/cat_02/02_%ED%86%A0%EB%A0%88%ED%83%80!_100x255.png.png",
+            "price": "3000",
+            "brand": "coke",
+            "type": "sports"
+        },
+        {
+            "id": 17,
+            "name": "뿌요소다",
+            "img": "https://www.paldofood.co.kr/data/product/093853_beverage-009-thumb.png",
+            "price": "3000",
+            "brand": "pal",
+            "type": "soft"
+        },
+        
+        {
+            "id": 20,
+            "name": "삼양목장유기농우유",
+            "img": "https://www.samyangfoods.com/upload/product/20190424/20190424142947367015.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "milk"
+        },
+        {
+            "id": 21,
+            "name": "오르닉유기농아이슬란딕요거트",
+            "img": "https://www.samyangfoods.com/upload/product/20230427/20230427104107607019.png",
+            "price": "3000",
+            "brand": "sam",
+            "type": "milk"
+        }
+    ]
+
+}
