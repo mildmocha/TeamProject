@@ -96,23 +96,18 @@ function getCheckboxValue(event)  {
     //구조분해 value(key)의 값 (value)
     const {selectedIndex:n} = event.target.value;//
   const {value} = event.target.options[n] // 순서가 갖는 밸류
-
     
     console.log(event.target.options[n])
     console.log(value)
-
   
-
     const filtered = myProduct.filter((aa)=>{
         return aa.category === value;
     })
     removeItem() 
-
     filtered.forEach((product)=>{
     createItem(product);
 })
      
-
 }
 */
 
