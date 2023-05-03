@@ -17,36 +17,39 @@ ul:after {
     clear: both;
 }
 .wrap {padding: 0 50px;}
-.banner img { width:1440px; height:400px;}
+.banner div div:first-child {background: #3654be;}
+.contents_wrap .banner .b2 {background: #3f0f7f;}
+.banner img { width:1440px; height:400px; object-fit: contain; margin : 0 auto;}
+
 .banner {margin-bottom: 100px;}
 
-.contents_wrap {
-    border :solid red 2px;
+.contents_wrap { padding-bottom: 100px;
+    
    
     
 }
 .slider { margin-bottom: 100px;}
 
-.swiper-wrapper { }
+.swiper-wrapper {align-items: center; }
 .swiper {padding :0 50px; box-sizing: border-box;}
-.swiper-slide {width:20%;  padding:0 10px; text-align: center; }
-.swiper img { width:150px;   border-radius: 1000px;}
+.swiper-slide {display: flex;width:20%;  padding:0 10px;  }
+.swiper img { width:100%;  height: 100%; border-radius: 1000px; ;}
 .swiper h1  {text-align: center; font-size: 25px; margin: 30px 0;}
 .swiper-button-prev, .swiper-button-next {
     position: absolute;
     top: 160px;
     right: 0;
   }
-
-.goods-wrap {padding:0 50px; position: relative; margin-bottom: 50px;}
+.goodslist 
+.goods-wrap {padding:0 50px; position: relative; margin-bottom: 50px; }
 .main h1 {text-align: center; font-size: 25px; margin: 30px 0;}
 .goods-wrap .more {position: absolute; right: 70px; top:0px;} 
 .goods-wrap h2 {margin : 30px 0; display: inline-block block; padding-left: 10px; font-size: 20px;}
 .goods-wrap p{ font-size: 18px; margin:20px 0 15px 0;  color:black}
 .goods-wrap span {color: black; padding-top:10px;}
 .goodslist ul {display: flex; }
-.goodslist li {width: 20%; padding:10px; }
-.goodslist li img {width: 100%;}
+.goodslist li { padding:10px; flex:1}
+.goodslist li img {width: 100%; height:180px; object-fit: contain;}
 
 
 
